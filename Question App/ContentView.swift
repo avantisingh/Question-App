@@ -16,7 +16,7 @@ struct ContentView: View {
             .ignoresSafeArea()
             VStack(spacing: 50){
                 
-                Text("Welcome to the Random Quiz! 🎊🎊")
+                Text("Welcome to the Random Quiz! 🎊")
                     .font(.largeTitle)
                     .fontWeight(.bold)
                     .multilineTextAlignment(.center)
